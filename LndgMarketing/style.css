@@ -300,7 +300,7 @@ header.header-area .navigation-area nav ul li.menu-btn a:hover {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background-image: linear-gradient(to bottom, #0277fa, #046af0, #0a5de5, #1350da, #1a42cf);
+  background-image: linear-gradient(to bottom, #25D366, #25D366, #25D366, #25D366, #25D366);
   border-radius: 50px;
   text-transform: capitalize;
   padding: 13px 30px;
@@ -321,6 +321,7 @@ header.header-area .navigation-area nav ul li.menu-btn a:hover {
 .button-wtsp:hover {
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
+  color: #25D366;
 }
 .button-wtsp:hover::before {
   transition: 0.5s all ease;
